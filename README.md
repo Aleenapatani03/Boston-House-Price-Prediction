@@ -41,17 +41,14 @@ We trained the following regression models:
 
 3.Lasso Regression
 
-4.Decision Tree Regressor
+4.Random Forest Regressor
 
-5.Random Forest Regressor
+5.Gradient Boosting Regressor
 
-6.Gradient Boosting Regressor
+6.Support Vector Regressor (SVR)
 
-7.XGBoost Regressor
+7.Decision Tree
 
-8.Support Vector Regressor (SVR)
-
-9.Multi-Layer Perceptron (MLP) Regressor
 
 ## Model Evaluation
 Evaluation Metrics:
